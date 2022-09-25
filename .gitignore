@@ -1,0 +1,8 @@
+#User Config
+*.uvguix.*
+/PROJECT/.vscode
+
+#obj
+/Project/DebugConfig
+/Project/Listings
+/Project/Objects
